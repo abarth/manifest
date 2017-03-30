@@ -3,6 +3,8 @@
   <imports>
     <localimport file="build"/>
     <localimport file="toolchain"/>
+    <localimport file="magenta"/>
+    <localimport file="minimal"/>
   </imports>
   <projects>
     <project name="netstack"
