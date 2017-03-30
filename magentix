@@ -3,6 +3,7 @@
   <imports>
     <localimport file="build"/>
     <localimport file="magenta"/>
+    <localimport file="runtimes/go"/>
   </imports>
   <projects>
     <project name="netstack"
